@@ -6,7 +6,7 @@
 # Tips for Development
 
 ## Viewing the Project
-* This application has been deployed [here](https://cymatic-productions.github.io/mixcraft.projecttemplate/)
+* This application has been deployed [here](https://cymatic-productions.github.io/mixcraft.itriumpth/).
 
 ## Ensuring Portability
 ### Overview
